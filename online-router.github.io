@@ -408,6 +408,7 @@ function simulateForgot() {
 function simulateLookup() {
   alert('Please sign in first to look up your order.');
 }
+
 </script>
 </body>
 </html>
